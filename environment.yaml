@@ -1,0 +1,237 @@
+name: C:\Users\george.liu\AppData\Local\Continuum\Anaconda3
+channels: !!python/tuple
+- conda-forge
+- defaults
+dependencies:
+- _license=1.1=py35_1
+- _nb_ext_conf=0.3.0=py35_0
+- anaconda-clean=1.1.0=py35_0
+- anaconda=custom=py35_0
+- anaconda-navigator=1.2.3=py35_0
+- backports=1.0=py35_0
+- bitarray=0.8.1=py35_1
+- blaze=0.10.1=py35_0
+- bokeh=0.12.4=py35_0
+- boto=2.46.1=py35_0
+- chest=0.2.3=py35_0
+- comtypes=1.1.2=py35_0
+- conda-forge::alabaster=0.7.10=py35_0
+- conda-forge::anaconda-client=1.5.1=py35_0
+- conda-forge::argcomplete=1.8.2=py35_0
+- conda-forge::astroid=1.4.8=py35_0
+- conda-forge::astropy=1.3=np111py35_0
+- conda-forge::babel=2.3.4=py35_0
+- conda-forge::beautifulsoup4=4.5.3=py35_0
+- conda-forge::bleach=1.5.0=py35_0
+- conda-forge::boto3=1.4.2=py35_0
+- conda-forge::botocore=1.4.81=py35_0
+- conda-forge::bottleneck=1.2.0=np111py35_0
+- conda-forge::bzip2=1.0.6=vc14_0
+- conda-forge::ca-certificates=2017.1.23=0
+- conda-forge::certifi=2017.1.23=py35_0
+- conda-forge::cffi=1.7.0=py35_0
+- conda-forge::chardet=2.3.0=py35_0
+- conda-forge::click=6.7=py35_0
+- conda-forge::cloudpickle=0.2.2=py35_2
+- conda-forge::clyent=1.2.1=py35_0
+- conda-forge::colorama=0.3.7=py35_0
+- conda-forge::conda=4.2.13=py35_0
+- conda-forge::conda-build=2.1.6=py35_0
+- conda-forge::conda-env=2.6.0=0
+- conda-forge::conda-verify=2.0.0=py35_0
+- conda-forge::contextlib2=0.5.4=py35_0
+- conda-forge::curl=7.52.1=vc14_0
+- conda-forge::cycler=0.10.0=py35_0
+- conda-forge::cython=0.25.2=py35_1
+- conda-forge::cytoolz=0.8.2=py35_0
+- conda-forge::dask=0.14.0=py35_0
+- conda-forge::decorator=4.0.11=py35_0
+- conda-forge::dill=0.2.6=py35_0
+- conda-forge::distributed=1.16.0=py35_0
+- conda-forge::docutils=0.13.1=py35_0
+- conda-forge::entrypoints=0.2.2=py35_1
+- conda-forge::filelock=2.0.6=py35_0
+- conda-forge::flask=0.12=py35_0
+- conda-forge::flask-cors=3.0.2=py35_0
+- conda-forge::freetype=2.7=vc14_1
+- conda-forge::h5py=2.6.0=np111py35_7
+- conda-forge::hdf5=1.8.17=vc14_9
+- conda-forge::heapdict=1.0.0=py35_0
+- conda-forge::html5lib=0.999=py35_0
+- conda-forge::icu=58.1=vc14_1
+- conda-forge::imagesize=0.7.1=py35_0
+- conda-forge::ipykernel=4.5.2=py35_0
+- conda-forge::ipython=5.3.0=py35_0
+- conda-forge::ipython_genutils=0.2.0=py35_0
+- conda-forge::ipywidgets=6.0.0=py35_0
+- conda-forge::isort=4.2.5=py35_0
+- conda-forge::itsdangerous=0.24=py35_1
+- conda-forge::jedi=0.10.0=py35_0
+- conda-forge::jinja2=2.9.5=py35_0
+- conda-forge::jmespath=0.9.1=py35_0
+- conda-forge::jpeg=9b=vc14_0
+- conda-forge::jsonschema=2.5.1=py35_0
+- conda-forge::jupyter=1.0.0=py35_0
+- conda-forge::jupyter_client=5.0.0=py35_0
+- conda-forge::jupyter_console=5.1.0=py35_0
+- conda-forge::jupyter_core=4.3.0=py35_0
+- conda-forge::lazy-object-proxy=1.2.2=py35_0
+- conda-forge::libiconv=1.14=vc14_4
+- conda-forge::libpng=1.6.28=vc14_0
+- conda-forge::libtiff=4.0.6=vc14_7
+- conda-forge::libxml2=2.9.3=vc14_9
+- conda-forge::libxslt=1.1.29=vc14_3
+- conda-forge::locket=0.2.0=py35_1
+- conda-forge::lxml=3.7.3=py35_0
+- conda-forge::markupsafe=0.23=py35_1
+- conda-forge::matplotlib=2.0.0=np111py35_2
+- conda-forge::mccabe=0.6.1=py35_0
+- conda-forge::mistune=0.7.3=py35_1
+- conda-forge::mpmath=0.19=py35_2
+- conda-forge::msgpack-python=0.4.8=py35_0
+- conda-forge::multipledispatch=0.4.9=py35_0
+- conda-forge::nb_anacondacloud=1.2.0=py35_0
+- conda-forge::nb_conda=2.0.0=py35_0
+- conda-forge::nb_conda_kernels=2.0.0=py35_0
+- conda-forge::nbconvert=5.1.1=py35_0
+- conda-forge::nbformat=4.2.0=py35_0
+- conda-forge::nbpresent=3.0.2=py35_1
+- conda-forge::networkx=1.11=py35_0
+- conda-forge::nltk=3.2.2=py35_0
+- conda-forge::nose=1.3.7=py35_2
+- conda-forge::notebook=4.4.1=py35_0
+- conda-forge::numexpr=2.6.2=np111py35_0
+- conda-forge::numpydoc=0.6.0=py35_0
+- conda-forge::olefile=0.44=py35_0
+- conda-forge::openssl=1.0.2h=vc14_3
+- conda-forge::pandas=0.19.2=np111py35_1
+- conda-forge::pandoc=1.19.2=0
+- conda-forge::pandocfilters=1.4.1=py35_0
+- conda-forge::partd=0.3.7=py35_0
+- conda-forge::path.py=8.2.1=py35_0
+- conda-forge::pathlib2=2.2.1=py35_0
+- conda-forge::patsy=0.4.1=py35_0
+- conda-forge::pep8=1.7.0=py35_0
+- conda-forge::pickleshare=0.7.3=py35_0
+- conda-forge::pillow=4.0.0=py35_2
+- conda-forge::pip=9.0.1=py35_0
+- conda-forge::pkginfo=1.2.1=py35_0
+- conda-forge::ply=3.9=py35_0
+- conda-forge::prompt_toolkit=1.0.13=py35_0
+- conda-forge::psutil=5.2.0=py35_0
+- conda-forge::py=1.4.32=py35_0
+- conda-forge::pyasn1=0.2.2=py35_0
+- conda-forge::pycosat=0.6.1=py35_0
+- conda-forge::pycparser=2.17=py35_0
+- conda-forge::pycrypto=2.6.1=py35_0
+- conda-forge::pyflakes=1.5.0=py35_0
+- conda-forge::pygments=2.2.0=py35_0
+- conda-forge::pylint=1.6.4=py35_0
+- conda-forge::pyopenssl=16.2.0=py35_0
+- conda-forge::pyparsing=2.2.0=py35_0
+- conda-forge::pyqt=4.11.4=py35_2
+- conda-forge::pyreadline=2.1=py35_0
+- conda-forge::pytables=3.3.0=np111py35_0
+- conda-forge::pytest=3.0.6=py35_0
+- conda-forge::python=3.5.3=1
+- conda-forge::python-dateutil=2.6.0=py35_0
+- conda-forge::pytz=2016.10=py35_0
+- conda-forge::pywin32=220=py35_1
+- conda-forge::pyyaml=3.12=py35_0
+- conda-forge::pyzmq=16.0.2=py35_1
+- conda-forge::qt=4.8.7=vc14_6
+- conda-forge::qtawesome=0.4.4=py35_0
+- conda-forge::qtconsole=4.2.1=py35_1
+- conda-forge::qtpy=1.2.1=py35_0
+- conda-forge::requests=2.13.0=py35_0
+- conda-forge::ruamel_yaml=0.11.14=py35_0
+- conda-forge::s3fs=0.0.9=py35_0
+- conda-forge::s3transfer=0.1.9=py35_0
+- conda-forge::scikit-image=0.12.3=np111py35_1
+- conda-forge::setuptools=33.1.0=py35_0
+- conda-forge::simplegeneric=0.8.1=py35_0
+- conda-forge::singledispatch=3.4.0.3=py35_0
+- conda-forge::sip=4.18=py35_1
+- conda-forge::six=1.10.0=py35_1
+- conda-forge::snowballstemmer=1.2.1=py35_0
+- conda-forge::sortedcontainers=1.5.3=py35_0
+- conda-forge::sphinx=1.5.2=py35_0
+- conda-forge::spyder=3.1.3=py35_0
+- conda-forge::sqlalchemy=1.1.5=py35_0
+- conda-forge::statsmodels=0.8.0=np111py35_0
+- conda-forge::sympy=1.0=py35_0
+- conda-forge::testpath=0.3=py35_0
+- conda-forge::tk=8.6.6=vc14_4
+- conda-forge::toolz=0.8.2=py35_0
+- conda-forge::tornado=4.4.2=py35_0
+- conda-forge::tqdm=4.11.2=py35_0
+- conda-forge::traitlets=4.3.1=py35_0
+- conda-forge::vc=14=0
+- conda-forge::vs2015_runtime=14.0.25420=0
+- conda-forge::wcwidth=0.1.7=py35_0
+- conda-forge::webencodings=0.5=py35_0
+- conda-forge::werkzeug=0.11.10=py35_0
+- conda-forge::wheel=0.29.0=py35_0
+- conda-forge::widgetsnbextension=2.0.0=py35_0
+- conda-forge::win_unicode_console=0.5=py35_0
+- conda-forge::wincertstore=0.2=py35_0
+- conda-forge::wrapt=1.10.8=py35_0
+- conda-forge::xlrd=1.0.0=py35_1
+- conda-forge::yaml=0.1.6=vc14_0
+- conda-forge::zict=0.1.1=py35_0
+- conda-forge::zlib=1.2.11=vc14_0
+- configobj=5.0.6=py35_0
+- console_shortcut=0.1.1=py35_1
+- cryptography=1.7.1=py35_0
+- datashape=0.5.4=py35_0
+- dynd-python=0.7.2=py35_0
+- et_xmlfile=1.0.1=py35_0
+- fastcache=1.0.2=py35_1
+- get_terminal_size=1.0.0=py35_0
+- gevent=1.2.1=py35_0
+- greenlet=0.4.12=py35_0
+- idna=2.2=py35_0
+- jdcal=1.3=py35_0
+- libdynd=0.7.2=0
+- llvmlite=0.16.0=py35_0
+- menuinst=1.4.4=py35_0
+- mkl=2017.0.1=0
+- mkl-service=1.1.2=py35_3
+- numba=0.31.0=np111py35_0
+- numpy=1.11.3=py35_0
+- odo=0.5.0=py35_1
+- openpyxl=2.4.1=py35_0
+- pycurl=7.43.0=py35_2
+- rope=0.9.4=py35_1
+- scikit-learn=0.18.1=np111py35_1
+- scipy=0.19.0=np111py35_0
+- sockjs-tornado=1.0.3=py35_0
+- tblib=1.3.0=py35_0
+- unicodecsv=0.14.1=py35_0
+- xlsxwriter=0.9.6=py35_0
+- xlwings=0.10.2=py35_0
+- xlwt=1.2.0=py35_0
+- pip:
+  - backports.shutil-get-terminal-size==1.0.0
+  - dynd==c328ab7
+  - et-xmlfile==1.0.1
+  - floyd-cli==0.8.9
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.0.0
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - marshmallow==2.13.3
+  - nb-anacondacloud==1.2.0
+  - nb-conda==2.0.0
+  - nb-conda-kernels==2.0.0
+  - prompt-toolkit==1.0.13
+  - protobuf==3.1.0
+  - rope-py3k==0.9.4.post1
+  - ruamel-yaml==0.11.14
+  - shortuuid==0.5.0
+  - tables==3.3.0
+  - tabulate==0.7.7
+  - tensorflow==0.12.0rc0
+  - win-unicode-console==0.5
+prefix: C:\Users\george.liu\AppData\Local\Continuum\Anaconda3
+
